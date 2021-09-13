@@ -2,7 +2,7 @@
 - 👀 I’m interested in things that were obvious after you heard about them
 - 🌱 I’m currently learning Wasm, lexer/parsers, DSLs
 - 💞️ I’m looking to collaborate on projects with high social and environmental impact
-- 📫 How to reach me: Look me up on linkedin or send me a tweet 
+- 📫 How to reach me: Look me up on linkedin or send me a tweet :baby_chick:
 
 <!---
 aldosa/aldosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
