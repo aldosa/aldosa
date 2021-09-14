@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aldosa
-- 👀 I’m interested in things that were obvious after you heard about them
+- 👀 I’m interested in things that were obvious _after_ you heard about them
 - 🌱 I’m currently learning Wasm, lexer/parsers, DSLs
 - 💞️ I’m looking to collaborate on projects with high social and environmental impact
 - 📫 How to reach me: Look me up on linkedin or send me a tweet :baby_chick:
