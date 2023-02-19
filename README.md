@@ -10,7 +10,7 @@ I’ve always been interested in the cognitive disconnect between what is obviou
 
 # Topics of interest
  - TQM frameworks for enterprise applications, 
- - open software
+ - Open software as a vehicle for change 
 
 <!---
 aldosa/aldosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
